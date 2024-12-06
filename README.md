@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Patrick.
+### I'm Patrick (he / him)
 - high school senior
 - looking to study CS in college
 - want to pursue a career in tech
