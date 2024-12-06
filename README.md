@@ -5,7 +5,8 @@
 - looking to study CS in college
 - want to pursue a career in tech
 - looking for help on figuring out how open source projects work
-
+- Java / Python
+  
 <!--
 **ThousandYearGrind/ThousandYearGrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
