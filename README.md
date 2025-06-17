@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 ### I'm Patrick (he / him)
-- high school senior
-- looking to study CS in college
-- want to pursue a career in tech
-- looking for help on figuring out how open source projects work
+- Georgia Tech CS major
+- looking to figure out how open source projects operate
 - Java / Python
   
 <!--
