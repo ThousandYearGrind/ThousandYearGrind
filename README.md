@@ -2,8 +2,7 @@
 
 ### I'm Patrick (he / him)
 - Georgia Tech CS major
-- looking to figure out how open source projects operate
-- Java / Python
+- Java
   
 <!--
 **ThousandYearGrind/ThousandYearGrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
