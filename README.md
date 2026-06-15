@@ -2,7 +2,6 @@
 
 ### I'm Patrick (he / him)
 - Georgia Tech CS major
-- Java
   
 <!--
 **ThousandYearGrind/ThousandYearGrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
