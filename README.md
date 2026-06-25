@@ -1,7 +1,5 @@
-## Hi there 👋
-
-### I'm Patrick (he / him)
-- Georgia Tech CS major
+## About Me
+- I'm a CS major at Georgia Tech
   
 <!--
 **ThousandYearGrind/ThousandYearGrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
